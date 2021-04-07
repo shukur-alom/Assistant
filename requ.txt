@@ -1,0 +1,6 @@
+playsound==1.2.2
+PyAutoGUI==0.9.52
+requests==2.24.0
+wikipedia==1.4.0
+SpeechRecognition==3.8.1
+pywin32==300
