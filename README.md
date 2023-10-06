@@ -34,5 +34,16 @@ To run this project, you will need the following:
 
 You can install the required libraries using `pip`:
 
+## Installation
+
+1. Clone this repository to your local machine:
+2. 
 ```bash
-pip install requests datetime wikipedia webbrowser pyautogui SpeechRecognition pywin32 playsound
+git clone https://github.com/shukur-alom/Assistant.git
+```
+
+2. install requirements
+
+```bash
+pip3 install -r requirements.txt
+```
