@@ -47,3 +47,33 @@ git clone https://github.com/shukur-alom/Assistant.git
 ```bash
 pip3 install -r requirements.txt
 ```
+
+## Usage
+1. Make sure your microphone and speakers are properly set up and working.
+2. Run the Python script:
+
+```bash
+python Assistant.py
+```
+3. Start interacting with the virtual assistant by speaking voice commands. You can ask questions, request news updates, open websites, and more.
+
+## Functionalities
+* Personal Information: The assistant can provide information about you, your name, and family members.
+
+* News Updates: Ask for the latest news updates, and the assistant will read headlines from a news API.
+
+* Date and Time: Request the current date and time.
+
+* Open Websites: Instruct the assistant to open websites like YouTube, Facebook, or GitHub.
+
+* Lock Computer: Lock your computer with a voice command.
+
+* Create Text Files: Dictate text, and the assistant will create a text file with the specified content.
+
+* Search on Wikipedia: Ask questions or request information on various topics using Wikipedia.
+
+* Unknown Commands: If the assistant doesn't understand a command, it logs the request to a file for future reference.
+
+
+** License
+This project is licensed under the MIT License - see the [MIT LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
