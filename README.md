@@ -12,7 +12,6 @@ This project is a voice-controlled virtual assistant that can perform various ta
 - [Installation](#installation)
 - [Usage](#usage)
 - [Functionalities](#functionalities)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
